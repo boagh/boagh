@@ -1,6 +1,6 @@
 ### Hi there 👋
-# My name is Behrooz Ostadaghaee
-I studied Electrical Engineering at University of Tabriz.
+# My name is Behrooz Ostadaghaee ([CV](https://boagh.github.io/cv/))
+I studied Electrical Engineering at University of Tabriz. 
 
 - 🔭 I’m currently working on an NLP-related paper (cannot reveal details now)
 - 🌱 I’m currently learning Deep Learning
