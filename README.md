@@ -1,6 +1,6 @@
 ### Hi there 👋
 # My name is Behrooz Ostadaghaee
-I studied Electrical Engineering at University of Tabriz. I work on DL-based NLP. 
+I studied Electrical Engineering at University of Tabriz.
 
 - 🔭 I’m currently working on an NLP-related paper (cannot reveal details now)
 - 🌱 I’m currently learning Deep Learning
